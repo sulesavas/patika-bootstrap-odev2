@@ -1,2 +1,4 @@
-# patika-bootstrap-odev2
-Instagram Clone - Bootstrap 2. ödevi.
+# instagrambootstrapclone
+Bootstrap İnstagram Clone ödevi
+
+![github](screenshot.png)
